@@ -13,6 +13,12 @@ body {
     rgba(45, 126, 253, 1) 100%
   );
 }
+footer {
+  background-color: #000;
+  font-size: 35px;
+  text-align: center;
+  padding: 30px;
+}
 tbody {
   font-size: 25px;
   background: rgb(38, 63, 92);
